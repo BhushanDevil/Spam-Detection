@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Spam-Detection
+Version: 0.0.1
+Summary: A package for spam detection
+Author: Bhushan Ankush Vanjiwale
+Author-email: rusivanjare7@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
